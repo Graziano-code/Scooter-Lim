@@ -1,0 +1,24 @@
+/* Immaggine di sfondo */
+body {
+  background-image: url(C:/Users/crtgz/Desktop/class5/backgroundd.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+header{text-align: center;padding: 25px;}
+.conteiner{width: 1000px;margin: auto;}
+.logo{width:150px;}
+.logo-text{font-size: 40px;color: #66ff00;margin: 0px}
+/* indicazioni nav */
+nav{height: 18px;width: 1000px;background-color: #66ff00;text-align:center;padding: 10px;}
+/* Elenco Monopattini */
+.gino22{display: inline-block;width: 50%;color: white;padding: 20px;}
+.mike24{display: inline-block;width: 50%;color: white;padding: 20px;}
+.fede154{display: inline-block;width: 50%;color: white;padding: 20px;}
+/* Stato di carica */
+.statodicarica1{width:300px;height:20px;background-color: orange;display: inline-block;}
+.statodicarica2{width:500px;height:20px;background-color:#66ff00;display: inline-block;}
+.statodicarica3{width:120px;height:20px;background-color: red;display: inline-block;}
+/* Grandezza font Monopattini */
+.fontsize{font-size: 23px;}
+/* Quadrato opaco di sfondo(ho trovato difficoltà con la sovrapposizione)  */
+.quadrato{padding:650px;color:#000;background-color: black;opacity:0.3;}
