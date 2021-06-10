@@ -1,0 +1,48 @@
+/* Background image */
+body {
+  background-image: url('backgroundd.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+/*Heading*/
+header{
+  text-align: center;padding: 25px;
+}
+/*Container where to insert elements  */
+.conteiner{
+  width: 1000px;margin: auto;
+}
+/*Logo*/
+.logo{
+  width:150px;
+}
+/*Text Logo*/
+.logo-text{
+  font-size: 40px;color: #66ff00;margin: auto
+}
+/* indications of the nav */
+nav{
+  height: 18px;width: 1000px;background-color: #66ff00;text-align:center;padding: 10px;
+}
+/* Electric Scooters List */
+section{
+  width: 50%;color: white;padding: 20px;
+}
+/* charge indicator */
+.stateofcharge1{
+  width:50%;height:20px;background-color: orange;
+}
+.stateofcharge2{
+  width:90%;height:20px;background-color:#66ff00;
+}
+.stateofcharge3{
+  width:25%;height:20px;background-color: red;
+}
+/* Scooter font size */
+.fontsize{
+  font-size: 23px;
+}
+/* Background matte square*/
+.matteblacksquare{
+  padding:650px;background-color: black;opacity:0.3;
+}
